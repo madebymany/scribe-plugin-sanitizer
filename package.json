@@ -3,7 +3,7 @@
   "version": "0.1.11",
   "main": "src/scribe-plugin-sanitizer.js",
   "dependencies": {
-    "html-janitor": "^2.0.4",
+    "html-janitor": "git://github.com/madebymany/html-janitor.git#sir-trevor",
     "lodash-amd": "~3.5.0"
   },
   "devDependencies": {
